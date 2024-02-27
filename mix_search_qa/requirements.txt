@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.2
+fastapi==0.104.1
+fuzzywuzzy==0.18.0
+langchain==0.0.346
+pandas==2.0.3
+pydantic==1.10.12
+PyMySQL==1.1.0
+Requests==2.31.0
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.34.0
+uvicorn==0.24.0.post1
